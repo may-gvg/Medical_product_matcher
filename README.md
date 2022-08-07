@@ -1,6 +1,5 @@
 
 # PRODUCT RECOMMENDER
-#### Demo: https://youtu.be/23Q5lcyPAOY
 #### Heroku: https://inter-medical.herokuapp.com/
 
 #### Tech:
